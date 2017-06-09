@@ -4,7 +4,8 @@ army green: 41521F;
 */
 .primera-parte{
    background-image: url(../img/portada.jpg);
-   background-repeat: no-repeat;
+   background-size: cover;
+
 }
 .save-titulo{
 	color: white;
@@ -12,6 +13,7 @@ army green: 41521F;
 	text-decoration: none;
 	text-align: left;
 	margin-left: 100px;
+	text-shadow: 5px 5px 5px black;
 }
 .a-partedeMenu{
     color: white;
@@ -19,9 +21,7 @@ army green: 41521F;
     text-decoration: none;
     text-align: center;
     padding: 10px;
-}
-.a-primero{
-
+    text-shadow: 5px 5px 5px black;
 }
 .contenedor-primeraparte{
 	margin-top: 250px;
@@ -93,4 +93,15 @@ army green: 41521F;
 	padding: 10px;
 	border-style: none;
 	border-radius: 5px;
+}
+/* CUARTA PARTE*/
+.contenedor-cuartaparte{
+	background-image: url(../img/all.jpg);
+	height: 850px;
+	background-position: center;
+}
+.contenido-cuartaparte{
+	color: white;
+	margin-top: 60px;
+	text-shadow: 5px 5px 5px black;
 }
