@@ -105,3 +105,22 @@ army green: 41521F;
 	margin-top: 60px;
 	text-shadow: 5px 5px 5px black;
 }
+/* QUINTA PARTE */
+.contenedor-quintaparte{
+	background-color:white;
+	height: 440px; 
+	text-align: center;
+}
+.fa{
+	color: #A89F68;
+	font-size: 80px;
+	padding-bottom: 10px;
+}
+.h1-quintaparte{
+	color: #A89F68;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+.p-quintaparte{
+	color: #77777f;
+}
