@@ -124,3 +124,70 @@ army green: 41521F;
 .p-quintaparte{
 	color: #77777f;
 }
+/* SECTA PARTE*/
+.secta-parte{
+	background-color: #A89F68;
+	height: 700px;
+	text-align: center;
+}
+.primer-personal{
+	margin-left: 150px;
+}
+.personal{
+	color: white;
+}
+.personal h2{
+	color: black;
+}
+.h1-personal{
+	font-size: 100px;
+}
+.p-colorsuave{
+	color: #333333;
+}
+.p-colorfuerte{
+	color: #333333;
+	font-weight: bold;
+}
+.span-personal{
+	position: relative;
+	top: 90px;
+	right: 70px;
+	font-size: 20px;
+}
+.h1-personal{
+	position: relative;
+	top: 30px;
+}
+.h5-personal{
+	position: relative;
+	bottom: 15px;
+	left: 80px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.grupo-h2{
+	font-size: 17px;
+	position: relative;
+	top: 50px;
+	font-weight: bold;
+}
+.primer-h2-sectaparte{
+	color: #41521F;
+	margin-top: 60px;
+}
+.boton-sectaparte{
+	color: white;
+	padding: 10px;
+	background-color: #41521F;
+	border-radius: 5px;
+	font-size: 20px;
+	border-style: none;
+}
+
+/* SEPTIMA PARTE */
+
+.septima-parte{
+	background-color: #41521F;
+	height: 400px;
+}
